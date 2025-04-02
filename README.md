@@ -45,7 +45,7 @@ O projeto consiste em submeter uma imagem para o serviço AWS Textract e realiza
 
 <h2>Projeto de uso do Rekognition para identificar celebridades:</h2>
 
-O projeto consiste em submeter algumas imagens para o serviço AWS Rekoginition e realizar o reconhecimento e identificação das celebridades na foto.
+O projeto consiste em submeter algumas imagens para o serviço AWS Rekognition e realizar o reconhecimento e identificação das celebridades na foto.
 
 📸<b>Imagem utilizada para o teste:</b> 
 
